@@ -1,14 +1,15 @@
 ## Hey 👋, I'm Shubham Panth!
 
-I am Shubham Panth, living in Sweden and my developer journey began back in mid 2015. I am focused on game development with Unity3D and App development with andriod studio/xcode(java,swift). With the help of e-learning, i was able to understand a great deal of the subject, so that i could also help with projects
+21-year-old game software developer from Sweden 🇸🇪
 
+I like to build scalable apps, explore new tech, and tackle complex challenges. Fueled by coffee, open-source contributions, and the thrill of debugging at 2 a.m.
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevIos01/DevIos01/main/IMG/life_balance.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on [**Unordinal**](https://unordinal.com/) and [**Arkade v3 API**](https://arkade.games)
+- 🔭 &nbsp; I’m currently working on [**Hackclub**](https://hackclub.com/) and [**Arkade v3 API**](https://arkade.games)
 - 🌱 &nbsp; I’m currently learning [Typescript](https://www.typescriptlang.org/) and basic [C++](https://isocpp.org/); 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [devios.me](https://devios.me)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
