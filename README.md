@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Shubham Panth!
 
-21-year-old game software developer from Sweden 🇸🇪
+22-year-old game software developer from Sweden 🇸🇪
 
 I like to build scalable apps, explore new tech, and tackle complex challenges. Fueled by coffee, open-source contributions, and the thrill of debugging at 2 a.m.
 <br/>
@@ -11,10 +11,10 @@ I like to build scalable apps, explore new tech, and tackle complex challenges. 
 
 - 🔭 &nbsp; I’m currently working on [**Hackclub**](https://hackclub.com/) and [**Arkade v3 API**](https://arkade.games)
 - 🌱 &nbsp; I’m currently learning [Typescript](https://www.typescriptlang.org/) and basic [C++](https://isocpp.org/); 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [devios.me](https://devios.me)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [devios.dev](https://devios.dev)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/devios/)
-- 📝 &nbsp; Checkout my [resume](https://devios.me/resume)
+- 📝 &nbsp; Checkout my [resume](https://devios.dev/resume)
 
 <br>
 
