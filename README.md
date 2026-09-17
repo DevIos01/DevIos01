@@ -42,6 +42,17 @@ More, with write-ups, at [devios.dev/projects](https://devios.dev/projects).
 
 ---
 
+<h3 align="center">🎮 Player card</h3>
+
+<p align="center">
+  <a href="https://devios.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.devios.dev/card.svg?theme=dark" />
+      <img alt="My devios.dev player card: status, contribution graph and achievements" src="https://www.devios.dev/card.svg" />
+    </picture>
+  </a>
+</p>
+
 <h3 align="center">🐍 Contributions</h3>
 
 <p align="center">
