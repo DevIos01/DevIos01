@@ -1,9 +1,8 @@
 ## Hey, I’m Shubham Panth 👋
 
-**.NET full-stack developer** | **AI & embedded** | 📍 Sweden 🇸🇪
+**.NET full-stack developer · AI & embedded · Sweden**
 
-[![Portfolio](https://img.shields.io/badge/devios.dev-portfolio-111?style=for-the-badge)](https://devios.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devios-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/devios/)
+🌐 [devios.dev](https://devios.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/devios/) · ✉️ [hey@devios.dev](mailto:hey@devios.dev)
 
 <img align="right" alt="Balancing code and life" src="https://raw.githubusercontent.com/DevIos01/DevIos01/main/IMG/life_balance.gif" width="300"/>
 
@@ -37,8 +36,8 @@ More, with write-ups, at [devios.dev/projects](https://devios.dev/projects).
 ### 🔨 Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,postgres,docker,java&theme=dark" />
-  <img alt="C#, .NET, React, Next.js, TypeScript, Postgres, Docker, Java" src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,postgres,docker,java&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Creact%2Cnextjs%2Cts%2Cpostgres%2Cdocker%2Cjava&theme=dark" />
+  <img alt="C#, .NET, React, Next.js, TypeScript, Postgres, Docker, Java" src="https://skillicons.dev/icons?i=cs%2Cdotnet%2Creact%2Cnextjs%2Cts%2Cpostgres%2Cdocker%2Cjava&theme=light" />
 </picture>
 
 ---
