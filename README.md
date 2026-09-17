@@ -4,6 +4,13 @@
 
 🌐 [devios.dev](https://devios.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/devios/) · ✉️ [hey@devios.dev](mailto:hey@devios.dev)
 
+<a href="https://devios.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.devios.dev/card.svg?theme=dark" />
+    <img alt="My devios.dev player card: status, contribution graph and achievements" src="https://www.devios.dev/card.svg" />
+  </picture>
+</a>
+
 <img align="right" alt="Balancing code and life" src="https://raw.githubusercontent.com/DevIos01/DevIos01/main/IMG/life_balance.gif" width="300"/>
 
 I taught myself to code making Unity games back in 2018, drifted into full-stack, and these days I’m mostly on .NET, AI and embedded, taking things from the firmware up to the cloud as CTO at Campfire Toys.
@@ -41,17 +48,6 @@ More, with write-ups, at [devios.dev/projects](https://devios.dev/projects).
 </picture>
 
 ---
-
-<h3 align="center">🎮 Player card</h3>
-
-<p align="center">
-  <a href="https://devios.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.devios.dev/card.svg?theme=dark" />
-      <img alt="My devios.dev player card: status, contribution graph and achievements" src="https://www.devios.dev/card.svg" />
-    </picture>
-  </a>
-</p>
 
 <h3 align="center">🐍 Contributions</h3>
 
