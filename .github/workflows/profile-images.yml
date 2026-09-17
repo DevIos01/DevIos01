@@ -7,7 +7,7 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
   push:
-    branches: [main, stats-action-preview]
+    branches: [main]
 
 permissions:
   contents: write
