@@ -66,12 +66,12 @@ More, with write-ups, at [devios.dev/projects](https://devios.dev/projects).
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-devios.vercel.app/api?username=DevIos01&show_icons=true&count_private=true&hide_border=true&theme=react" />
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats-devios.vercel.app/api?username=DevIos01&show_icons=true&count_private=true&hide_border=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevIos01/DevIos01/output/stats-dark.svg" />
+    <img height="170" alt="GitHub stats" src="https://raw.githubusercontent.com/DevIos01/DevIos01/output/stats.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-devios.vercel.app/api/top-langs/?username=DevIos01&layout=compact&langs_count=6&hide_border=true&theme=react" />
-    <img height="170" alt="Most used languages" src="https://github-readme-stats-devios.vercel.app/api/top-langs/?username=DevIos01&layout=compact&langs_count=6&hide_border=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevIos01/DevIos01/output/top-langs-dark.svg" />
+    <img height="170" alt="Most used languages" src="https://raw.githubusercontent.com/DevIos01/DevIos01/output/top-langs.svg" />
   </picture>
 </p>
 
