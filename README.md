@@ -11,8 +11,6 @@
   </picture>
 </a>
 
-<img align="right" alt="Balancing code and life" src="https://raw.githubusercontent.com/DevIos01/DevIos01/main/IMG/life_balance.gif" width="300"/>
-
 I taught myself to code making Unity games back in 2018, drifted into full-stack, and these days I’m mostly on .NET, AI and embedded, taking things from the firmware up to the cloud as CTO at Campfire Toys.
 
 I work remotely with teams around the world, and I enjoy solving complex problems, shaping product architecture, and shipping real, usable systems.
@@ -84,6 +82,10 @@ More, with write-ups, at [devios.dev/projects](https://devios.dev/projects).
 
 <p align="center">
   <img alt="A random developer joke" src="https://readme-jokes.vercel.app/api"/>
+</p>
+
+<p align="center">
+  <img alt="Work, social life and sleep: pick two" src="https://raw.githubusercontent.com/DevIos01/DevIos01/main/IMG/life_balance.gif" width="300"/>
 </p>
 
 <p align="center">
