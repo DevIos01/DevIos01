@@ -73,9 +73,11 @@ More, with write-ups, at [devios.dev/projects](https://devios.dev/projects).
 
 ---
 
-### 😂 Random dev joke
+<h3 align="center">😂 Random dev joke</h3>
 
-![A random developer joke](https://readme-jokes.vercel.app/api)
+<p align="center">
+  <img alt="A random developer joke" src="https://readme-jokes.vercel.app/api"/>
+</p>
 
 <p align="center">
   Thanks for stopping by. Feel free to explore, fork, or reach out 🚀
