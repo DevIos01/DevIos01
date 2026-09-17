@@ -1,0 +1,74 @@
+name: Profile images
+
+# Draws the contribution snake and the GitHub stats cards for the profile README,
+# and publishes them to the `output` branch the README links to.
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      # A STATS_TOKEN secret that can read private repositories lets the cards count
+      # private work; without it they fall back to this repository's token and public activity.
+      CARD_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # A card that fails to load stops the run, so yesterday's images stay up
+      # instead of being replaced by an error card.
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=default
+          path: dist/stats.svg
+          token: ${{ env.CARD_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=react
+          path: dist/stats-dark.svg
+          token: ${{ env.CARD_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&theme=default
+          path: dist/top-langs.svg
+          token: ${{ env.CARD_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Languages card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&theme=react
+          path: dist/top-langs-dark.svg
+          token: ${{ env.CARD_TOKEN }}
+          fail_on_error: "true"
+
+      - uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
