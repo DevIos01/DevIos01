@@ -17,7 +17,7 @@ I work remotely with teams around the world, and I enjoy solving complex problem
 
 ### 💼 Now
 
-- **CTO & Product Strategy Lead** at [Campfire Toys, Inc.](https://campfiremusic.ai) · since Mar 2025
+- **CTO & Product Strategy Lead** at [Campfire Toys, Inc.](https://campfire.toys) · since Mar 2025
 - **Technical Consultant** at [Arkade, Inc.](https://arkade.games) · since Dec 2025
 - Previously **HQ Engineering & HCB Operations** at [Hack Club](https://hackclub.com) · Jun 2023 – Feb 2025
 
